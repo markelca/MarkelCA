@@ -1,9 +1,9 @@
 ### Hi there! 👋
 
-I'm Markel. I love software, learning, and sharing. 
+I’m Markel. I love software, learning, and sharing.
 
-I'm into backend and systems engineering, performance, memory and high-intensive applications. However, I play with a lot of different stuff because I'm curious, I simply like to try and make sense out of things.
+I’m into backend engineering, distributed systems, memory management, and high-performance applications. However, I experiment with a lot of different things because I’m curious and simply like to try and make sense of things.
 
-I'm still just getting started, but my goal it's to become a great software engineer and build amazing technology.
+I’m still just getting started, but my goal is to become a great software engineer and build amazing technology.
 
-You can find my personal blog in [medium](https://medium.com/@markelca). 
+You can find my personal blog on [Medium](https://medium.com/@markelca). 
