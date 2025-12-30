@@ -2,6 +2,6 @@
 
 I'm Markel. I love software, learning, and sharing.
 
-I'm into backend engineering, distributed systems, developer tools, and high-performance applications. However, I experiment with a lot of different stuff because I'm curious and simply enjoy trying to make sense of things.
+I'm into backend engineering, distributed systems, developer tools, and AI. My goal is to become a great software engineer and build amazing technology that brings value to people, especially around privacy and security.
 
-I'm still just getting started, but my goal is to become a great software engineer and build amazing technology.
+I focus on tackling the problems I run into, building tools I wish existed, and sharing them with others who might find them useful. So if you want to collaborate on a cool project, feel free to reach out :)
